@@ -7,14 +7,14 @@
 - **Recursion time**: \( 92 \, ns \)
 
 ### Speedup Calculation
-\[
+
 \text{Speedup} = \frac{\text{Loop time}}{\text{Recursion time}} = \frac{65,500}{92}.
-\]
+
 
 Perform the division:
-\[
+
 \text{Speedup} \approx 712.
-\]
+
 
 ### Conclusion
 The recursive implementation is approximately **712 times faster** than the loop implementation.
